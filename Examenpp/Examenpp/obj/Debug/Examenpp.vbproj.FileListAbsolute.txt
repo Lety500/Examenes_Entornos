@@ -1,0 +1,14 @@
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Examenpp\Examenpp\bin\Debug\Examenpp.exe.config
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Examenpp\Examenpp\bin\Debug\Examenpp.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Examenpp\Examenpp\bin\Debug\Examenpp.pdb
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Examenpp\Examenpp\bin\Debug\Examenpp.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Examenpp\Examenpp\obj\Debug\Examenpp.vbprojResolveAssemblyReference.cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Examenpp\Examenpp\obj\Debug\Examenpp.Form1.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Examenpp\Examenpp\obj\Debug\Examenpp.Form2.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Examenpp\Examenpp\obj\Debug\Examenpp.Form3.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Examenpp\Examenpp\obj\Debug\Examenpp.Resources.resources
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Examenpp\Examenpp\obj\Debug\Examenpp.vbproj.GenerateResource.Cache
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Examenpp\Examenpp\obj\Debug\Examenpp.exe
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Examenpp\Examenpp\obj\Debug\Examenpp.xml
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Examenpp\Examenpp\obj\Debug\Examenpp.pdb
+C:\Users\Marisol\Documents\Programacion en entor os de desarrollo visual\Examenpp\Examenpp\obj\Debug\Examenpp.Form4.resources
